@@ -1,1 +1,3 @@
-theme: minima
+title: Blog personal
+description: Creación de mi blog personal usando el tema Cayman
+theme: jekyll-theme-cayman
