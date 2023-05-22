@@ -1,6 +1,6 @@
 ---
 title: "01-04 Realización de operaciones básicas en C#"
-date: 2023-05-21
+date: 2023-05-22
 ---
 
 # Sumas con conversión implícita de datos
