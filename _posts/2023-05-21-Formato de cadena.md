@@ -1,5 +1,5 @@
 ---
-title: "Aplicación de formato de cadena básico en C#"
+title: "01-03 Aplicación de formato de cadena básico en C#"
 date: 2023-05-21
 ---
 

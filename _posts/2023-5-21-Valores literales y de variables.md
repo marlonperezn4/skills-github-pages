@@ -1,5 +1,5 @@
 ---
-title: "Almacenamiento y recuperación de datos mediante valores literales y de variable en C#"
+title: "01-02 Almacenamiento y recuperación de datos mediante valores literales y de variable en C#"
 date: 2023-05-21
 ---
 
