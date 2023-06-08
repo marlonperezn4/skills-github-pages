@@ -1,6 +1,6 @@
 ---
 title: "Dominio virtual en XAMPP"
-date: 2023-05-22
+date: 2023-06-07
 ---
 
 # ¿Cómo crear un dominio virtual en XAMPP?
